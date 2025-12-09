@@ -1,4 +1,5 @@
 # Grazioso Salvare Dashboard
+<img width="685" height="683" alt="Grazioso Salvare Logo" src="https://github.com/user-attachments/assets/f63bb083-2cc8-4f18-b9dd-09137eb09c95" />
 
 ## About the Project
 This project features a data dashboard for the Austin Animal Center Outcomes dataset, built to provide interactive visualization and dynamic filtering for animal rescue and adoption information.
