@@ -137,3 +137,11 @@ By default, the dashboard will run on:
 ## Contact Information:
 We’re always open to suggestions! Feel free to reach out to the Global Rain team at the [Global Rain Contact Page](https://globalrain.com/contact-us)
  or open an issue on our GitHub repository. Pull requests are also welcome!
+
+## 8-2 Journal: Reflection
+When writing applications, I focus on separating all responsibilities into clear modules to ensure that they are both maintainable and adaptable. Other key coding practices include using meaningful variable and function names, and only adding comments where logic isn't immediately obvious to achieve high readability. This approach was especially important in Project One as it ensured the database logic could be reused in Project Two, preventing redundant query logic from being embedded directly in the dashboard code. A notable advantage of working in this manner is that modifications to database queries or filters could be made in one place without affecting the dashboard layout or callbacks. Furthermore, this CRUD module can now be reused for other dashboards, reports, or backend services that require access to the Austin Animal Center data. 
+
+Approaching a problem from the vantage point of a computer scientist begins by analyzing the client's requirements and breaking them down into smaller, more manageable components. For instance, one might divide this project into smaller scopes like data storage, filtering logic, and visualization. As opposed to my previous approach that often begins with tackling a single, isolated problem, this project required coordinating multiple technologies in concert like MongoDB, Python, and Dash to ensure that database queries returned accurate data prior to integrating them into widgets. In the future, I would apply the same strategy of requirement analysis, modular design, and iterative testing when creating databases and applications for other clients. 
+
+Solutions designed by computer scientists involve transforming raw data into usable information; this process is paramount in helping organizations make informed decisions. As such, the project dashboard enables Grazioso Salvare to quickly identify suitable animals for rescue operations, which in turn improves efficiency and supports their company mission.
+
