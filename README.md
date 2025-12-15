@@ -11,9 +11,9 @@ The dashboard enables users to do the following:
   - **Mountain/Wilderness**
   - **Disaster**
   - **Reset All**
-- View an **interactive data table** that updates dynamically based on filters.
-- Explore a **geolocation map** showing selected animal locations.
-- View a **breed distribution pie chart** that updates with filtered data.
+- View an interactive data table that updates dynamically based on filters.
+- Explore a geolocation map showing selected animal locations.
+- View a breed distribution pie chart that updates with filtered data.
 
 
 You can view a screencast demonstration at the link below. Supplemental screenshots are provided in the “How to Run the Dashboard” section.
